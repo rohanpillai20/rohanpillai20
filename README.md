@@ -3,7 +3,7 @@
 
 
 ## About Me 
-I am Rohan Pillai, currently pursing Master of Computer Science at North Carolina State University, Raleigh. I did my Bachelors in Information Technology from Nirma University, India. I have done three internships at Samsung Research Institute, Bombardier Transportation and L&T Technology Services.. I am quite interested in working on software development using different paradigms. I have done projects in several programming languages like Java, Python, Ruby, JavaScript, etc. Outside my professional life, I like to travel, swim & watch movies.
+I am Rohan Pillai, currently pursing Master of Computer Science at North Carolina State University, Raleigh. I did my Bachelors in Information Technology from Nirma University, India. I have done three internships at Samsung Research Institute, Bombardier Transportation and L&T Technology Services. I am quite interested in working on software development using different paradigms. I have done projects in several programming languages like Java, Python, Ruby, JavaScript, etc. Outside my professional life, I like to travel ✈, swim 🥽 & watch movies 🎥.
 
 ## Technologies I've worked with
   #### Programming Languages
