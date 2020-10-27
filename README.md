@@ -1,5 +1,5 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![GitHub User's stars](https://img.shields.io/github/stars/rohanpillai20?style=social) 
+# Hi there!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+![GitHub User's stars](https://img.shields.io/github/stars/rohanpillai20?style=social) ![visitors](https://visitor-badge.glitch.me/badge?page_id=rohanpillai20)
 
 
 ## About Me 
