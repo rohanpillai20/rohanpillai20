@@ -3,7 +3,7 @@
 
 
 ## About Me 
-I am Rohan Pillai, currently pursing Master of Computer Science at North Carolina State University, Raleigh. I did my Bachelors in Information Technology from Nirma University, India. I have done three internships at Samsung Research Institute, Bombardier Transportation and L&T Technology Services. I am quite interested in working on software development using different paradigms. I have done projects in several programming languages like Java, Python, Ruby, JavaScript, etc. Outside my professional life, I like to travel ✈, swim 🥽 & watch movies 🎥.
+I am Rohan Pillai, currently pursing Master of Computer Science at North Carolina State University, Raleigh. I did my Bachelors in Information Technology from Nirma University, India. I have done three internships at Samsung Research Institute, Bombardier Transportation and L&T Technology Services. I am quite interested in working on software development using different paradigms. I have done projects in several programming languages like Java, Python, Ruby, JavaScript, etc. Outside my professional life, I like to travel ✈, swim 🏊‍ & watch movies 🎥.
 
 ## Technologies I've worked with
   #### Programming Languages
@@ -50,7 +50,7 @@ I am Rohan Pillai, currently pursing Master of Computer Science at North Carolin
 
 ## Contact
 <p>
-  <a href="https://github.com/rohanpillai20" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/rohanpillaii" target="_blank"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://stackoverflow.com/users/9213252/rohan-pillai?tab=profile"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a> <a href="https://leetcode.com/rspillai/"><img src="https://img.shields.io/badge/-LeetCode-f2f2f2?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+  <a href="https://github.com/rohanpillai20" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/rohanpillaii" target="_blank"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://stackoverflow.com/users/9213252/rohan-pillai?tab=profile"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a> <!-- a href="https://leetcode.com/rspillai/"><img src="https://img.shields.io/badge/-LeetCode-f2f2f2?style=for-the-badge&logo=LeetCode&logoColor=black"/></a-->
 </p>
 
 <!--
